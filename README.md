@@ -1,6 +1,11 @@
 # Weight Classifier
 This repository contains a multiclass classification project aimed at classifying a person's weight into predefined weight classes (Underweight, Normal, Overweight, Obese) based on features such as height, age, gender, exercise status etc.
 
+## Table of Contents
++ Project Overview
++ Installation
++ Files
++ Acknowledgement
 
 ### Project Overview
 The anxiety associated with checking one's weight in number is excruciating. Without using the mass (in Kg or lb) of a user, a person can be classified into a weight class using given parameters and that can help them decide on measures to take to curtail excesses and reduce the weight check anxiety.
@@ -71,6 +76,12 @@ Cross validation is applied to Accuracy, Precision, Recall and F1-score to show 
 
 
 ### Installation
+1. **Anaconda**
+	```bash
+	 https://www.anaconda.com/download
+	```
+
+### Files
 1. **Clone The Repository**
 	```bash
 	git clonehttps://github.com/Darc-lord/Weight-Classifier.git
